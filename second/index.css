@@ -1,0 +1,92 @@
+body {
+    margin:0;
+    padding: 5%; 
+}
+
+.box1 {
+    height: 200px;
+    width: 100%;
+    border-style: solid;
+    border-width: 5px;
+    padding: 15px
+    box-sizing: border-box;
+   
+   
+    }
+
+
+.purpsquare {
+    height: 150px;
+    width: 50px;
+    background-color: blueviolet;
+    display: inline-block;
+    margin-left:10px;
+    margin-bottom:10px;
+    
+}
+
+.greensquare {
+    height: 180px;
+    width: 330px;
+    display: inline-block;
+    background-color: forestgreen;
+    margin: 10px 30px;
+}
+
+
+.circle {
+    height: 175px;
+  width: 175px;
+  border-radius: 50%;
+  background-color: skyblue;
+  display: inline-block;
+  margin: 10px 30px;
+}
+
+.box2 {
+    height: 200px;
+    width: 100%;
+    border-style: dotted;
+    border-width: 5px;
+    padding: 5px
+    box-sizing: border-box;
+    margin-bottom: 25px;
+    margin-top: 25px;
+   
+
+}
+
+.yellowsquare {
+    height: 70%;
+    width: 80%;
+    display: inline-block;
+    background-color: rgb(255, 255, 189);
+    margin: 30px 80px;
+    box-shadow: 2px 6px 6px 2px grey;
+}
+
+.box3 {
+    height: 250px;
+    width: 50%;
+    border: 1px solid grey;
+    box-sizing: border-box;
+    box-shadow: 2px 4px 4px 2px grey;
+    margin: auto; 
+    text-align:center;
+    color: rgb(23, 23, 155);
+    font: 30px times, sans-serif;
+    letter-spacing: 5px;
+    text-align: center auto;
+    line-height: 50px;
+    margin-top: 30px;
+ 
+}
+
+.hi {
+    margin-top: 70px;
+}
+
+
+
+
+    
